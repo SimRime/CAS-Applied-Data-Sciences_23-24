@@ -1,0 +1,703 @@
+hospital,canton,delivery,year,cases_c-section,cases_kidney,Reg,Uni,percentage_c-section
+Les HÃ´pitaux Universitaires de GenÃ¨ve HUG,GE,4048,2015,1196.0,35.0,RO,1,0.29545454545454547
+LUKS Spitalbetriebe AG,LU,2988,2015,982.0,,AL,0,0.3286479250334672
+CHUV Centre Hospitalier Universitaire Vaudois,VD,2909,2015,963.0,52.0,RO,1,0.3310415950498453
+UniversitÃ¤tsspital ZÃ¼rich,ZH,2839,2015,1226.0,83.0,AL,1,0.4318421979570271
+UniversitÃ¤tsspital Basel,BS,2509,2015,912.0,80.0,AL,1,0.3634914308489438
+Spital Thurgau AG KantonsspitÃ¤ler Frauenfeld & MÃ¼nsterlingen,TG,2338,2015,600.0,,AL,0,0.2566295979469632
+Lindenhofgruppe AG,BE,2241,2015,847.0,,AL,0,0.3779562695225346
+HÃ´pital Riviera-Chablais Vaud-Valais,VD,1969,2015,510.0,,RO,0,0.25901472828847133
+Stadtspital Triemli,ZH,1965,2015,760.0,,AL,0,0.38676844783715014
+EOC Ente ospedaliero cantonale,TI,1866,2015,516.0,,RO,0,0.2765273311897106
+Spital Zollikerberg,ZH,1838,2015,736.0,,AL,0,0.40043525571273125
+Kantonsspital Winterthur,ZH,1764,2015,569.0,,AL,0,0.322562358276644
+HÃ´pital du Valais - Centre hospitalier du centre du Valais (CHCVs),VS,1649,2015,333.0,,RO,0,0.20194057004244997
+Insel Gruppe AG (universitÃ¤r),BE,1639,2015,681.0,40.0,AL,1,0.41549725442342894
+Kantonsspital St. Gallen,SG,1619,2015,647.0,14.0,AL,0,0.3996294008647313
+Kantonsspital Aarau AG,AG,1616,2015,472.0,,AL,0,0.29207920792079206
+Kantonsspital Baden AG,AG,1607,2015,528.0,,AL,0,0.328562538892346
+RÃ©seau hospitalier neuchÃ¢telois RHNe,NE,1501,2015,408.0,,RO,0,0.27181878747501664
+HÃ´pital Jules Daler,FR,1483,2015,458.0,,RO,0,0.3088334457181389
+Spital BÃ¼lach AG,ZH,1420,2015,462.0,,AL,0,0.32535211267605635
+Spitalverbund Appenzell Ausserrhoden,AR,1414,2015,349.0,,AL,0,0.24681753889674682
+Solothurner SpitÃ¤ler AG,SO,1324,2015,453.0,,AL,0,0.3421450151057402
+EHC Ensemble hospitalier de la CÃ´te,VD,1320,2015,368.0,,RO,0,0.2787878787878788
+Bethesda Spital AG,BS,1281,2015,510.0,,AL,0,0.3981264637002342
+Kantonsspital Baselland,BL,1234,2015,352.0,,AL,0,0.2852512155591572
+Hirslanden Bern AG,BE,1137,2015,414.0,,AL,0,0.3641160949868074
+Spital STS AG,BE,1137,2015,327.0,,AL,0,0.287598944591029
+Spitalregion Rheintal Werdenberg Sarganserland,SG,1132,2015,285.0,,AL,0,0.25176678445229683
+Spitalzentrum Biel AG,BE,1031,2015,245.0,,AL,0,0.2376333656644035
+Spital Limmattal,ZH,1011,2015,350.0,,AL,0,0.34619188921859545
+Kantonsspital GraubÃ¼nden,GR,1005,2015,376.0,,AL,0,0.37412935323383084
+Etablissements Hospitaliers du Nord Vaudois (eHnv),VD,1005,2015,293.0,,RO,0,0.2915422885572139
+Klinik Hirslanden AG,ZH,992,2015,,,AL,0,
+Spital Uster,ZH,921,2015,277.0,,AL,0,0.3007600434310532
+Zuger Kantonsspital AG,ZG,888,2015,256.0,,AL,0,0.2882882882882883
+GZO Spital Wetzikon,ZH,873,2015,245.0,,AL,0,0.2806414662084765
+HFR - HÃ´pital fribourgeois,FR,869,2015,246.0,,RO,0,0.28308400460299193
+Clinique des Grangettes SA,GE,842,2015,335.0,,RO,0,0.3978622327790974
+Swiss Medical Network Hospitals SA Clinica Sant'Anna,TI,835,2015,331.0,,RO,0,0.3964071856287425
+Hirslanden Klinik St. Anna AG,LU,827,2015,357.0,,AL,0,0.4316807738814994
+Hirslanden Klinik Stephanshorn,SG,824,2015,418.0,,AL,0,0.5072815533980582
+Spitalregion FÃ¼rstenland Toggenburg,SG,798,2015,245.0,,AL,0,0.30701754385964913
+SpitÃ¤ler Schaffhausen,SH,786,2015,271.0,,AL,0,0.34478371501272265
+Clinique GÃ©nÃ©rale-Beaulieu,GE,760,2015,260.0,,RO,0,0.34210526315789475
+Hirslanden Klinik Aarau,AG,748,2015,359.0,,AL,0,0.4799465240641711
+Spital Wallis - Spitalzentrum Oberwallis (SZO),VS,722,2015,195.0,,RO,0,0.27008310249307477
+Swiss Medical Network Hospitals SA Klinik Villa im Park,AG,664,2015,267.0,,AL,0,0.40210843373493976
+Asana Spital Leuggern AG,AG,649,2015,215.0,,AL,0,0.3312788906009245
+See-Spital,ZH,642,2015,217.0,,AL,0,0.338006230529595
+HÃ´pital Intercantonal de la Broye (HIB),VD,638,2015,141.0,,RO,0,0.22100313479623823
+Hirslanden Klinik Linde AG,BE,625,2015,232.0,,AL,0,0.3712
+HÃ´pital du Jura,JU,620,2015,111.0,,RO,0,0.17903225806451614
+SpitÃ¤ler Frutigen Meiringen Interlaken AG,BE,618,2015,196.0,,AL,0,0.31715210355987056
+Stiftung Spital Muri,AG,606,2015,177.0,,AL,0,0.29207920792079206
+SRO AG,BE,598,2015,222.0,,AL,0,0.3712374581939799
+Klinik Im Park,ZH,592,2015,319.0,,AL,0,0.5388513513513513
+Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,VD,591,2015,208.0,,RO,0,0.35194585448392557
+Paracelsus-Spital Richterswil AG,ZH,588,2015,109.0,,AL,0,0.18537414965986396
+Regionalspital Emmental AG,BE,574,2015,153.0,,AL,0,0.2665505226480836
+HÃ´pital de la Tour,GE,564,2015,205.0,,RO,0,0.36347517730496454
+Spital Nidwalden AG,NW,534,2015,145.0,,AL,0,0.27153558052434457
+Insel Gruppe AG (nicht-universitÃ¤r),BE,504,2015,194.0,,AL,0,0.38492063492063494
+Spital MÃ¤nnedorf AG,ZH,501,2015,168.0,,AL,0,0.33532934131736525
+Hirslanden Lausanne SA,VD,497,2015,240.0,,RO,0,0.482897384305835
+Gesundheitszentrum Fricktal,AG,481,2015,215.0,,AL,0,0.446985446985447
+Andreas Klinik,ZG,470,2015,249.0,,AL,0,0.5297872340425532
+Spital Lachen,SZ,464,2015,152.0,,AL,0,0.3275862068965517
+Spital Schwyz,SZ,458,2015,107.0,,AL,0,0.2336244541484716
+Spital Linth,SG,442,2015,128.0,,AL,0,0.2895927601809955
+Swiss Medical Network Hospitals SA Privatklinik Obach,SO,378,2015,174.0,,AL,0,0.4603174603174603
+Kantonsspital Glarus,GL,375,2015,142.0,,AL,0,0.37866666666666665
+HÃ´pital du Jura bernois SA,BE,371,2015,105.0,,AL,0,0.2830188679245283
+Spital Affoltern AG,ZH,349,2015,97.0,,AL,0,0.27793696275071633
+Clinique de La Source,VD,329,2015,171.0,,RO,0,0.5197568389057751
+GSMN Schweiz AG Privatklinik Bethanien,ZH,321,2015,177.0,,AL,0,0.5514018691588785
+Kantonsspital Uri,UR,282,2015,86.0,,AL,0,0.3049645390070922
+AMEOS Spital Einsiedeln AG,SZ,276,2015,76.0,,AL,0,0.2753623188405797
+Kantonsspital Obwalden,OW,274,2015,66.0,,AL,0,0.24087591240875914
+Clinica Luganese Moncucco SA Clinica Santa Chiara SA,TI,241,2015,86.0,,RO,0,0.35684647302904565
+Geburtshaus ZÃ¼rcher Oberland AG,ZH,240,2015,,,AL,0,
+Geburtshaus Terra Alta,LU,218,2015,,,AL,0,
+Asana Spital Menziken AG,AG,189,2015,76.0,,AL,0,0.4021164021164021
+Regionalspital Surselva AG,GR,183,2015,46.0,,AL,0,0.25136612021857924
+Spital Thusis,GR,180,2015,35.0,,AL,0,0.19444444444444445
+Spital Oberengadin,GR,180,2015,41.0,,AL,0,0.22777777777777777
+Geburtshaus Delphys,ZH,178,2015,,,AL,0,
+GSMN Schweiz AG Privatklinik Lindberg,ZH,155,2015,81.0,,AL,0,0.5225806451612903
+Geburtshus StorchenÃ¤scht AG,AG,152,2015,,,AL,0,
+Spital Davos AG Akutabteilung,GR,128,2015,54.0,,AL,0,0.421875
+Geburtshaus Luna AG,BE,116,2015,,,AL,0,
+Flury Stiftung Spital Schiers,GR,111,2015,28.0,,AL,0,0.25225225225225223
+Maison de Naissance le Petit Prince,FR,91,2015,,,RO,0,
+Maison de naissance La Roseraie,GE,80,2015,,,RO,0,
+Geburtshaus Stans,NW,62,2015,,,AL,0,
+Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,GR,52,2015,18.0,,AL,0,0.34615384615384615
+Geburtshaus ambra GmbH,BL,42,2015,,,AL,0,
+Maison de Naissance Tilia SÃ rl,NE,31,2015,,,RO,0,
+Centro Sanitario Valposchiavo Ospedale San Sisto,GR,31,2015,6.0,,AL,0,0.1935483870967742
+Geburtshaus Tagmond GmbH,BL,25,2015,,,AL,0,
+Maison de naissance Les Cigognes,JU,23,2015,,,RO,0,
+Ita Wegman Geburtshaus,BL,6,2015,,,AL,0,
+Geburtshaus Basel,BS,3,2015,,,AL,0,
+Swiss Medical Network Hospitals SA Clinique GÃ©nÃ©rale-Ste-Anne,FR,1,2015,,,RO,0,
+Les HÃ´pitaux Universitaires de GenÃ¨ve HUG,GE,3955,2016,1189.0,38.0,RO,1,0.3006321112515803
+CHUV Centre Hospitalier Universitaire Vaudois,VD,3133,2016,962.0,56.0,RO,1,0.3070539419087137
+LUKS Spitalbetriebe AG,LU,3076,2016,1090.0,,AL,0,0.3543563068920676
+UniversitÃ¤tsspital ZÃ¼rich,ZH,2820,2016,1281.0,89.0,AL,1,0.4542553191489362
+UniversitÃ¤tsspital Basel,BS,2612,2016,914.0,70.0,AL,1,0.3499234303215927
+Spital Thurgau AG KantonsspitÃ¤ler Frauenfeld & MÃ¼nsterlingen,TG,2435,2016,665.0,,AL,0,0.2731006160164271
+Lindenhofgruppe AG,BE,2362,2016,844.0,,AL,0,0.3573243014394581
+HÃ´pital Riviera-Chablais Vaud-Valais,VD,2079,2016,520.0,,RO,0,0.25012025012025013
+Stadtspital Triemli,ZH,2037,2016,771.0,,AL,0,0.3784977908689249
+Spital Zollikerberg,ZH,1983,2016,785.0,,AL,0,0.39586485123550175
+EOC Ente ospedaliero cantonale,TI,1832,2016,469.0,,RO,0,0.25600436681222705
+Bethesda Spital AG,BS,1806,2016,681.0,,AL,0,0.3770764119601329
+Kantonsspital Winterthur,ZH,1770,2016,687.0,,AL,0,0.38813559322033897
+Kantonsspital Aarau AG,AG,1755,2016,534.0,,AL,0,0.30427350427350425
+Kantonsspital St. Gallen,SG,1694,2016,610.0,29.0,AL,0,0.3600944510035419
+Kantonsspital Baden AG,AG,1686,2016,560.0,,AL,0,0.33214709371293
+HÃ´pital du Valais - Centre hospitalier du centre du Valais (CHCVs),VS,1670,2016,387.0,,RO,0,0.23173652694610777
+Solothurner SpitÃ¤ler AG,SO,1639,2016,500.0,,AL,0,0.3050640634533252
+Insel Gruppe AG (universitÃ¤r),BE,1599,2016,662.0,39.0,AL,1,0.4140087554721701
+HÃ´pital Jules Daler,FR,1550,2016,451.0,,RO,0,0.29096774193548386
+RÃ©seau hospitalier neuchÃ¢telois RHNe,NE,1503,2016,412.0,,RO,0,0.2741184298070526
+Spitalverbund Appenzell Ausserrhoden,AR,1456,2016,345.0,,AL,0,0.23695054945054944
+Spital BÃ¼lach AG,ZH,1454,2016,411.0,,AL,0,0.2826685006877579
+EHC Ensemble hospitalier de la CÃ´te,VD,1378,2016,430.0,,RO,0,0.31204644412191584
+Spitalregion Rheintal Werdenberg Sarganserland,SG,1168,2016,301.0,,AL,0,0.2577054794520548
+Spital STS AG,BE,1131,2016,315.0,,AL,0,0.27851458885941643
+Hirslanden Bern AG,BE,1130,2016,439.0,,AL,0,0.38849557522123895
+Etablissements Hospitaliers du Nord Vaudois (eHnv),VD,1084,2016,329.0,,RO,0,0.30350553505535055
+Spitalzentrum Biel AG,BE,1075,2016,244.0,,AL,0,0.22697674418604652
+Kantonsspital GraubÃ¼nden,GR,1062,2016,405.0,,AL,0,0.3813559322033898
+Spital Limmattal,ZH,970,2016,309.0,,AL,0,0.3185567010309278
+Klinik Hirslanden AG,ZH,929,2016,539.0,,AL,0,0.5801937567276642
+HFR - HÃ´pital fribourgeois,FR,923,2016,269.0,,RO,0,0.2914409534127844
+Zuger Kantonsspital AG,ZG,915,2016,295.0,,AL,0,0.3224043715846995
+GZO Spital Wetzikon,ZH,909,2016,242.0,,AL,0,0.2662266226622662
+Spital Uster,ZH,898,2016,316.0,,AL,0,0.3518930957683742
+SpitÃ¤ler Schaffhausen,SH,879,2016,323.0,,AL,0,0.36746302616609783
+Clinique des Grangettes SA,GE,859,2016,345.0,,RO,0,0.40162980209545984
+Hirslanden Klinik St. Anna AG,LU,821,2016,322.0,,AL,0,0.392204628501827
+Hirslanden Klinik Aarau,AG,783,2016,355.0,,AL,0,0.45338441890166026
+Hirslanden Klinik Stephanshorn,SG,748,2016,348.0,,AL,0,0.46524064171123
+Swiss Medical Network Hospitals SA Clinica Sant'Anna,TI,739,2016,288.0,,RO,0,0.38971583220568334
+Spitalregion FÃ¼rstenland Toggenburg,SG,723,2016,233.0,,AL,0,0.32226832641770403
+Asana Spital Leuggern AG,AG,722,2016,208.0,,AL,0,0.2880886426592798
+Spital Wallis - Spitalzentrum Oberwallis (SZO),VS,690,2016,192.0,,RO,0,0.2782608695652174
+Clinique GÃ©nÃ©rale-Beaulieu,GE,675,2016,236.0,,RO,0,0.3496296296296296
+See-Spital,ZH,673,2016,267.0,,AL,0,0.3967310549777117
+Hirslanden Klinik Linde AG,BE,668,2016,259.0,,AL,0,0.38772455089820357
+Kantonsspital Baselland,BL,665,2016,152.0,,AL,0,0.22857142857142856
+SRO AG,BE,632,2016,230.0,,AL,0,0.3639240506329114
+Swiss Medical Network Hospitals SA Klinik Villa im Park,AG,630,2016,262.0,,AL,0,0.4158730158730159
+Paracelsus-Spital Richterswil AG,ZH,629,2016,126.0,,AL,0,0.20031796502384738
+SpitÃ¤ler Frutigen Meiringen Interlaken AG,BE,624,2016,193.0,,AL,0,0.3092948717948718
+Regionalspital Emmental AG,BE,604,2016,130.0,,AL,0,0.2152317880794702
+HÃ´pital du Jura,JU,598,2016,118.0,,RO,0,0.19732441471571907
+Stiftung Spital Muri,AG,594,2016,160.0,,AL,0,0.26936026936026936
+Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,VD,589,2016,199.0,,RO,0,0.3378607809847199
+HÃ´pital Intercantonal de la Broye (HIB),VD,568,2016,147.0,,RO,0,0.25880281690140844
+Spital Nidwalden AG,NW,553,2016,178.0,,AL,0,0.321880650994575
+HÃ´pital de la Tour,GE,538,2016,192.0,,RO,0,0.35687732342007433
+Andreas Klinik,ZG,533,2016,276.0,,AL,0,0.5178236397748592
+Spital MÃ¤nnedorf AG,ZH,532,2016,166.0,,AL,0,0.31203007518796994
+Klinik Im Park,ZH,518,2016,298.0,,AL,0,0.5752895752895753
+Gesundheitszentrum Fricktal,AG,474,2016,203.0,,AL,0,0.4282700421940928
+GSMN Schweiz AG Privatklinik Bethanien,ZH,470,2016,247.0,,AL,0,0.5255319148936171
+Spital Linth,SG,454,2016,168.0,,AL,0,0.3700440528634361
+Hirslanden Lausanne SA,VD,449,2016,204.0,,RO,0,0.45434298440979953
+Spital Lachen,SZ,448,2016,142.0,,AL,0,0.3169642857142857
+Insel Gruppe AG (nicht-universitÃ¤r),BE,442,2016,197.0,,AL,0,0.4457013574660634
+Spital Schwyz,SZ,431,2016,111.0,,AL,0,0.25754060324825984
+Kantonsspital Glarus,GL,367,2016,134.0,,AL,0,0.3651226158038147
+HÃ´pital du Jura bernois SA,BE,361,2016,107.0,,AL,0,0.296398891966759
+Spital Affoltern AG,ZH,332,2016,92.0,,AL,0,0.27710843373493976
+Clinique de La Source,VD,327,2016,179.0,,RO,0,0.5474006116207951
+Geburtshaus ZÃ¼rcher Oberland AG,ZH,297,2016,,,AL,0,
+AMEOS Spital Einsiedeln AG,SZ,291,2016,107.0,,AL,0,0.36769759450171824
+Kantonsspital Uri,UR,284,2016,69.0,,AL,0,0.24295774647887325
+Kantonsspital Obwalden,OW,277,2016,56.0,,AL,0,0.20216606498194944
+Clinica Luganese Moncucco SA Clinica Santa Chiara SA,TI,260,2016,108.0,,RO,0,0.4153846153846154
+Geburtshaus Terra Alta,LU,212,2016,,,AL,0,
+Geburtshaus Delphys,ZH,192,2016,,,AL,0,
+Spital Oberengadin,GR,185,2016,47.0,,AL,0,0.25405405405405407
+Asana Spital Menziken AG,AG,169,2016,65.0,,AL,0,0.38461538461538464
+Regionalspital Surselva AG,GR,169,2016,39.0,,AL,0,0.23076923076923078
+Geburtshaus Luna AG,BE,164,2016,,,AL,0,
+Spital Thusis,GR,163,2016,33.0,,AL,0,0.20245398773006135
+Geburtshus StorchenÃ¤scht AG,AG,148,2016,,,AL,0,
+Flury Stiftung Spital Schiers,GR,139,2016,35.0,,AL,0,0.2517985611510791
+Spital Davos AG Akutabteilung,GR,113,2016,50.0,,AL,0,0.4424778761061947
+Maison de Naissance le Petit Prince,FR,110,2016,,,RO,0,
+Geburtshaus Stans,NW,79,2016,,,AL,0,
+Maison de naissance La Roseraie,GE,72,2016,,,RO,0,
+Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,GR,69,2016,12.0,,AL,0,0.17391304347826086
+Maison de Naissance Tilia SÃ rl,NE,48,2016,,,RO,0,
+Geburtshaus ambra GmbH,BL,44,2016,,,AL,0,
+Centro Sanitario Valposchiavo Ospedale San Sisto,GR,43,2016,6.0,,AL,0,0.13953488372093023
+Geburtshaus Tagmond GmbH,BL,31,2016,,,AL,0,
+Maison de naissance Les Cigognes,JU,23,2016,,,RO,0,
+Geburtshaus Basel,BS,6,2016,,,AL,0,
+Ita Wegman Geburtshaus,BL,4,2016,,,AL,0,
+PÃ´le santÃ© du Pays-d'Enhaut,VD,1,2016,,,RO,0,
+Les HÃ´pitaux Universitaires de GenÃ¨ve HUG,GE,4078,2017,1189.0,33.0,RO,1,0.29156449239823445
+LUKS Spitalbetriebe AG,LU,3190,2017,1045.0,,AL,0,0.3275862068965517
+CHUV Centre Hospitalier Universitaire Vaudois,VD,3073,2017,878.0,55.0,RO,1,0.2857142857142857
+UniversitÃ¤tsspital ZÃ¼rich,ZH,2792,2017,1206.0,96.0,AL,1,0.43194842406876793
+UniversitÃ¤tsspital Basel,BS,2672,2017,936.0,79.0,AL,1,0.3502994011976048
+Spital Thurgau AG KantonsspitÃ¤ler Frauenfeld & MÃ¼nsterlingen,TG,2373,2017,644.0,,AL,0,0.2713864306784661
+Lindenhofgruppe AG,BE,2336,2017,855.0,,AL,0,0.3660102739726027
+Stadtspital Triemli,ZH,2159,2017,783.0,,AL,0,0.36266790180639186
+Spital Zollikerberg,ZH,2047,2017,807.0,,AL,0,0.39423546653639474
+HÃ´pital Riviera-Chablais Vaud-Valais,VD,1958,2017,491.0,,RO,0,0.2507660878447395
+Kantonsspital St. Gallen,SG,1895,2017,630.0,30.0,AL,0,0.3324538258575198
+Bethesda Spital AG,BS,1867,2017,651.0,,AL,0,0.3486877343331548
+Kantonsspital Winterthur,ZH,1864,2017,631.0,,AL,0,0.338519313304721
+EOC Ente ospedaliero cantonale,TI,1801,2017,442.0,,RO,0,0.24541921154913937
+Kantonsspital Aarau AG,AG,1780,2017,522.0,,AL,0,0.2932584269662921
+HÃ´pital du Valais - Centre hospitalier du centre du Valais (CHCVs),VS,1692,2017,436.0,,RO,0,0.2576832151300236
+Insel Gruppe AG (universitÃ¤r),BE,1689,2017,711.0,53.0,AL,1,0.42095914742451157
+Solothurner SpitÃ¤ler AG,SO,1685,2017,567.0,,AL,0,0.3364985163204748
+Kantonsspital Baden AG,AG,1632,2017,541.0,,AL,0,0.3314950980392157
+RÃ©seau hospitalier neuchÃ¢telois RHNe,NE,1479,2017,363.0,,RO,0,0.24543610547667344
+HÃ´pital Jules Daler,FR,1473,2017,450.0,,RO,0,0.3054989816700611
+Spital BÃ¼lach AG,ZH,1441,2017,440.0,,AL,0,0.3053435114503817
+EHC Ensemble hospitalier de la CÃ´te,VD,1384,2017,392.0,,RO,0,0.2832369942196532
+Spital STS AG,BE,1161,2017,352.0,,AL,0,0.3031869078380706
+Spitalregion Rheintal Werdenberg Sarganserland,SG,1147,2017,272.0,,AL,0,0.23714036617262424
+Hirslanden Bern AG,BE,1128,2017,380.0,,AL,0,0.33687943262411346
+Spitalverbund Appenzell Ausserrhoden,AR,1097,2017,246.0,,AL,0,0.22424794895168643
+Etablissements Hospitaliers du Nord Vaudois (eHnv),VD,1029,2017,296.0,,RO,0,0.28765792031098153
+Kantonsspital GraubÃ¼nden,GR,1016,2017,381.0,,AL,0,0.375
+Spitalzentrum Biel AG,BE,993,2017,222.0,,AL,0,0.22356495468277945
+Spital Limmattal,ZH,954,2017,306.0,,AL,0,0.32075471698113206
+HFR - HÃ´pital fribourgeois,FR,945,2017,263.0,,RO,0,0.2783068783068783
+Clinique des Grangettes SA,GE,904,2017,391.0,,RO,0,0.4325221238938053
+Klinik Hirslanden AG,ZH,904,2017,539.0,1.0,AL,0,0.5962389380530974
+Zuger Kantonsspital AG,ZG,899,2017,284.0,,AL,0,0.31590656284760843
+Spital Uster,ZH,865,2017,279.0,,AL,0,0.3225433526011561
+GZO Spital Wetzikon,ZH,854,2017,229.0,,AL,0,0.2681498829039813
+SpitÃ¤ler Schaffhausen,SH,836,2017,268.0,,AL,0,0.32057416267942584
+Hirslanden Klinik St. Anna AG,LU,827,2017,288.0,,AL,0,0.3482466747279323
+Hirslanden Klinik Aarau,AG,801,2017,356.0,,AL,0,0.4444444444444444
+Hirslanden Klinik Stephanshorn,SG,801,2017,347.0,,AL,0,0.4332084893882647
+Asana Spital Leuggern AG,AG,754,2017,214.0,,AL,0,0.2838196286472148
+Swiss Medical Network Hospitals SA Clinica Sant'Anna,TI,744,2017,272.0,,RO,0,0.3655913978494624
+Spital Wallis - Spitalzentrum Oberwallis (SZO),VS,696,2017,177.0,,RO,0,0.2543103448275862
+See-Spital,ZH,643,2017,281.0,,AL,0,0.4370139968895801
+Hirslanden Klinik Linde AG,BE,638,2017,214.0,,AL,0,0.335423197492163
+Spitalregion FÃ¼rstenland Toggenburg,SG,638,2017,191.0,,AL,0,0.2993730407523511
+Kantonsspital Baselland,BL,632,2017,157.0,,AL,0,0.24841772151898733
+Regionalspital Emmental AG,BE,630,2017,163.0,,AL,0,0.25873015873015875
+SRO AG,BE,627,2017,221.0,,AL,0,0.3524720893141946
+HÃ´pital Intercantonal de la Broye (HIB),VD,614,2017,146.0,,RO,0,0.23778501628664495
+Paracelsus-Spital Richterswil AG,ZH,609,2017,131.0,,AL,0,0.21510673234811165
+Clinique GÃ©nÃ©rale-Beaulieu,GE,602,2017,226.0,,RO,0,0.3754152823920266
+Stiftung Spital Muri,AG,598,2017,168.0,,AL,0,0.2809364548494983
+Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,VD,597,2017,199.0,,RO,0,0.3333333333333333
+HÃ´pital du Jura,JU,594,2017,135.0,,RO,0,0.22727272727272727
+SpitÃ¤ler Frutigen Meiringen Interlaken AG,BE,585,2017,193.0,,AL,0,0.3299145299145299
+Spital Nidwalden AG,NW,543,2017,177.0,,AL,0,0.3259668508287293
+HÃ´pital de la Tour,GE,535,2017,195.0,,RO,0,0.3644859813084112
+Spital MÃ¤nnedorf AG,ZH,529,2017,155.0,,AL,0,0.29300567107750475
+Klinik Im Park,ZH,510,2017,249.0,,AL,0,0.48823529411764705
+GSMN Schweiz AG Privatklinik Bethanien,ZH,481,2017,271.0,,AL,0,0.5634095634095634
+Andreas Klinik,ZG,461,2017,229.0,,AL,0,0.4967462039045553
+Insel Gruppe AG (nicht-universitÃ¤r),BE,459,2017,196.0,,AL,0,0.42701525054466233
+Swiss Medical Network Hospitals SA Klinik Villa im Park,AG,458,2017,159.0,,AL,0,0.3471615720524017
+Hirslanden Lausanne SA,VD,442,2017,212.0,,RO,0,0.4796380090497738
+Gesundheitszentrum Fricktal,AG,442,2017,187.0,,AL,0,0.4230769230769231
+Spital Lachen,SZ,428,2017,127.0,,AL,0,0.2967289719626168
+Spital Schwyz,SZ,427,2017,82.0,,AL,0,0.1920374707259953
+Spital Linth,SG,401,2017,127.0,,AL,0,0.3167082294264339
+HÃ´pital du Jura bernois SA,BE,388,2017,109.0,,AL,0,0.2809278350515464
+Kantonsspital Glarus,GL,340,2017,130.0,,AL,0,0.38235294117647056
+Clinique de La Source,VD,317,2017,149.0,,RO,0,0.47003154574132494
+Kantonsspital Obwalden,OW,302,2017,63.0,,AL,0,0.20860927152317882
+Kantonsspital Uri,UR,290,2017,75.0,,AL,0,0.25862068965517243
+Geburtshaus ZÃ¼rcher Oberland AG,ZH,285,2017,,,AL,0,
+Geburtshaus Terra Alta,LU,284,2017,,,AL,0,
+Spital Affoltern AG,ZH,282,2017,80.0,,AL,0,0.28368794326241137
+AMEOS Spital Einsiedeln AG,SZ,268,2017,87.0,,AL,0,0.3246268656716418
+Clinica Luganese Moncucco SA Clinica Santa Chiara SA,TI,226,2017,102.0,,RO,0,0.45132743362831856
+Geburtshaus Delphys,ZH,176,2017,,,AL,0,
+Regionalspital Surselva AG,GR,169,2017,49.0,,AL,0,0.28994082840236685
+Asana Spital Menziken AG,AG,167,2017,47.0,,AL,0,0.281437125748503
+Spital Oberengadin,GR,159,2017,37.0,,AL,0,0.23270440251572327
+Geburtshaus Luna AG,BE,157,2017,,,AL,0,
+Spital Thusis,GR,155,2017,30.0,,AL,0,0.1935483870967742
+Geburtshus StorchenÃ¤scht AG,AG,138,2017,,,AL,0,
+Flury Stiftung Spital Schiers,GR,135,2017,36.0,,AL,0,0.26666666666666666
+Spital Davos AG Akutabteilung,GR,110,2017,41.0,,AL,0,0.37272727272727274
+Maison de Naissance le Petit Prince,FR,105,2017,,,RO,0,
+Maison de naissance La Roseraie,GE,89,2017,,,RO,0,
+Genossenschaft Geburtshaus Simmental-Saaneland MaternitÃ© Alpine,BE,58,2017,,,AL,0,
+Geburtshaus Stans,NW,56,2017,,,AL,0,
+Geburtshaus ambra GmbH,BL,53,2017,,,AL,0,
+Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,GR,51,2017,12.0,,AL,0,0.23529411764705882
+Maison de Naissance Tilia SÃ rl,NE,45,2017,,,RO,0,
+Geburtshaus Tagmond GmbH,BL,37,2017,,,AL,0,
+Centro Sanitario Valposchiavo Ospedale San Sisto,GR,30,2017,8.0,,AL,0,0.26666666666666666
+Maison de naissance Les Cigognes,JU,25,2017,,,RO,0,
+Geburtshaus Basel,BS,5,2017,,,AL,0,
+Ita Wegman Geburtshaus,BL,4,2017,,,AL,0,
+Les HÃ´pitaux Universitaires de GenÃ¨ve HUG,GE,4082,2018,1148.0,40.0,RO,1,0.28123468887800096
+CHUV Centre Hospitalier Universitaire Vaudois,VD,3219,2018,899.0,52.0,RO,1,0.27927927927927926
+LUKS Spitalbetriebe AG,LU,3212,2018,1132.0,,AL,0,0.35242839352428396
+UniversitÃ¤tsspital ZÃ¼rich,ZH,2807,2018,1242.0,89.0,AL,1,0.4424652654079088
+UniversitÃ¤tsspital Basel,BS,2743,2018,943.0,93.0,AL,1,0.3437841779074007
+Spital Thurgau AG KantonsspitÃ¤ler Frauenfeld & MÃ¼nsterlingen,TG,2577,2018,665.0,,AL,0,0.2580519984478075
+Spital Zollikerberg,ZH,2205,2018,833.0,,AL,0,0.37777777777777777
+Lindenhofgruppe AG,BE,2196,2018,763.0,,AL,0,0.34744990892531874
+Stadtspital Triemli,ZH,2085,2018,773.0,,AL,0,0.37074340527577937
+HÃ´pital Riviera-Chablais Vaud-Valais,VD,2056,2018,481.0,,RO,0,0.23394941634241245
+Kantonsspital St. Gallen,SG,2029,2018,742.0,13.0,AL,0,0.36569738787580086
+Kantonsspital Aarau AG,AG,2013,2018,634.0,,AL,0,0.31495280675608545
+Bethesda Spital AG,BS,1877,2018,679.0,,AL,0,0.3617474693660096
+Insel Gruppe AG (universitÃ¤r),BE,1823,2018,818.0,66.0,AL,1,0.4487109160724081
+Kantonsspital Winterthur,ZH,1740,2018,554.0,,AL,0,0.31839080459770114
+Solothurner SpitÃ¤ler AG,SO,1670,2018,492.0,,AL,0,0.2946107784431138
+HÃ´pital du Valais - Centre hospitalier du centre du Valais (CHCVs),VS,1617,2018,398.0,,RO,0,0.24613481756338898
+Kantonsspital Baden AG,AG,1575,2018,525.0,,AL,0,0.3333333333333333
+EOC Ente ospedaliero cantonale,TI,1526,2018,387.0,,RO,0,0.25360419397116646
+HÃ´pital Jules Daler,FR,1499,2018,442.0,,RO,0,0.29486324216144094
+EHC Ensemble hospitalier de la CÃ´te,VD,1419,2018,413.0,,RO,0,0.29105003523608175
+Spital BÃ¼lach AG,ZH,1377,2018,439.0,,AL,0,0.3188090050835149
+RÃ©seau hospitalier neuchÃ¢telois RHNe,NE,1376,2018,361.0,,RO,0,0.2623546511627907
+Spitalregion Rheintal Werdenberg Sarganserland,SG,1176,2018,274.0,,AL,0,0.23299319727891157
+Spitalverbund Appenzell Ausserrhoden,AR,1158,2018,263.0,,AL,0,0.22711571675302245
+Spital STS AG,BE,1089,2018,323.0,,AL,0,0.29660238751147844
+Hirslanden Bern AG,BE,1066,2018,393.0,,AL,0,0.36866791744840527
+Kantonsspital GraubÃ¼nden,GR,1060,2018,368.0,,AL,0,0.3471698113207547
+HFR - HÃ´pital fribourgeois,FR,1022,2018,305.0,,RO,0,0.2984344422700587
+Spital Limmattal,ZH,969,2018,303.0,,AL,0,0.3126934984520124
+Etablissements Hospitaliers du Nord Vaudois (eHnv),VD,947,2018,287.0,,RO,0,0.30306230200633577
+Zuger Kantonsspital AG,ZG,942,2018,251.0,,AL,0,0.2664543524416136
+Spitalzentrum Biel AG,BE,906,2018,197.0,,AL,0,0.217439293598234
+Clinique des Grangettes SA,GE,888,2018,377.0,,RO,0,0.42454954954954954
+Spital Uster,ZH,885,2018,253.0,,AL,0,0.2858757062146893
+Klinik Hirslanden AG,ZH,841,2018,497.0,,AL,0,0.5909631391200951
+GZO Spital Wetzikon,ZH,841,2018,254.0,,AL,0,0.30202140309155767
+SpitÃ¤ler Schaffhausen,SH,827,2018,241.0,,AL,0,0.2914147521160822
+Hirslanden Klinik Stephanshorn,SG,788,2018,360.0,,AL,0,0.45685279187817257
+Swiss Medical Network Hospitals SA Clinica Sant'Anna,TI,782,2018,282.0,,RO,0,0.36061381074168797
+Asana Spital Leuggern AG,AG,774,2018,227.0,,AL,0,0.29328165374677
+Hirslanden Klinik St. Anna AG,LU,772,2018,266.0,,AL,0,0.344559585492228
+Hirslanden Klinik Linde AG,BE,758,2018,233.0,,AL,0,0.3073878627968338
+Hirslanden Klinik Aarau,AG,706,2018,275.0,,AL,0,0.3895184135977337
+Spital Wallis - Spitalzentrum Oberwallis (SZO),VS,700,2018,195.0,,RO,0,0.2785714285714286
+See-Spital,ZH,684,2018,256.0,,AL,0,0.3742690058479532
+Regionalspital Emmental AG,BE,658,2018,155.0,,AL,0,0.23556231003039513
+SRO AG,BE,637,2018,215.0,,AL,0,0.33751962323390894
+HÃ´pital Intercantonal de la Broye (HIB),VD,614,2018,153.0,,RO,0,0.249185667752443
+HÃ´pital du Jura,JU,614,2018,131.0,,RO,0,0.21335504885993486
+Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,VD,608,2018,212.0,,RO,0,0.34868421052631576
+Spital Nidwalden AG,NW,607,2018,186.0,,AL,0,0.30642504118616143
+SpitÃ¤ler Frutigen Meiringen Interlaken AG,BE,603,2018,172.0,,AL,0,0.28524046434494194
+Stiftung Spital Muri,AG,603,2018,180.0,,AL,0,0.29850746268656714
+Clinique GÃ©nÃ©rale-Beaulieu,GE,596,2018,201.0,,RO,0,0.337248322147651
+Spitalregion FÃ¼rstenland Toggenburg,SG,590,2018,145.0,,AL,0,0.2457627118644068
+Kantonsspital Baselland,BL,571,2018,175.0,,AL,0,0.3064798598949212
+Spital MÃ¤nnedorf AG,ZH,541,2018,143.0,,AL,0,0.2643253234750462
+HÃ´pital de la Tour,GE,524,2018,190.0,,RO,0,0.36259541984732824
+Spital Lachen,SZ,495,2018,151.0,,AL,0,0.30505050505050507
+Klinik Im Park,ZH,492,2018,268.0,,AL,0,0.5447154471544715
+Paracelsus-Spital Richterswil AG,ZH,485,2018,98.0,,AL,0,0.2020618556701031
+Andreas Klinik,ZG,484,2018,260.0,,AL,0,0.5371900826446281
+Spital Schwyz,SZ,470,2018,121.0,,AL,0,0.2574468085106383
+Swiss Medical Network Hospitals SA Klinik Villa im Park,AG,470,2018,200.0,,AL,0,0.425531914893617
+GSMN Schweiz AG Privatklinik Bethanien,ZH,464,2018,259.0,,AL,0,0.5581896551724138
+Gesundheitszentrum Fricktal,AG,460,2018,183.0,,AL,0,0.3978260869565217
+Hirslanden Lausanne SA,VD,427,2018,198.0,,RO,0,0.4637002341920375
+Insel Gruppe AG (nicht-universitÃ¤r),BE,415,2018,178.0,,AL,0,0.42891566265060244
+HÃ´pital du Jura bernois SA,BE,380,2018,114.0,,AL,0,0.3
+Spital Linth,SG,366,2018,97.0,,AL,0,0.2650273224043716
+Kantonsspital Glarus,GL,352,2018,133.0,,AL,0,0.3778409090909091
+Clinique de La Source,VD,340,2018,146.0,,RO,0,0.4294117647058823
+Kantonsspital Uri,UR,315,2018,59.0,,AL,0,0.1873015873015873
+Geburtshaus ZÃ¼rcher Oberland AG,ZH,307,2018,,,AL,0,
+Geburtshaus Terra Alta,LU,304,2018,,,AL,0,
+Kantonsspital Obwalden,OW,301,2018,70.0,,AL,0,0.23255813953488372
+AMEOS Spital Einsiedeln AG,SZ,288,2018,90.0,,AL,0,0.3125
+Spital Affoltern AG,ZH,284,2018,88.0,,AL,0,0.30985915492957744
+Geburtshaus Luna AG,BE,245,2018,,,AL,0,
+Clinica Luganese Moncucco SA Clinica Santa Chiara SA,TI,219,2018,78.0,,RO,0,0.3561643835616438
+Regionalspital Surselva AG,GR,181,2018,37.0,,AL,0,0.20441988950276244
+Flury Stiftung Spital Schiers,GR,178,2018,56.0,,AL,0,0.3146067415730337
+Geburtshaus Delphys,ZH,177,2018,,,AL,0,
+Spital Oberengadin,GR,166,2018,46.0,,AL,0,0.27710843373493976
+Geburtshus StorchenÃ¤scht AG,AG,157,2018,,,AL,0,
+Spital Thusis,GR,153,2018,35.0,,AL,0,0.22875816993464052
+Maison de Naissance le Petit Prince,FR,125,2018,,,RO,0,
+Spital Davos AG Akutabteilung,GR,116,2018,43.0,,AL,0,0.3706896551724138
+Geburtshaus Stans,NW,80,2018,,,AL,0,
+Maison de naissance La Roseraie,GE,76,2018,,,RO,0,
+Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,GR,67,2018,17.0,,AL,0,0.2537313432835821
+Asana Spital Menziken AG,AG,62,2018,20.0,,AL,0,0.3225806451612903
+Geburtshaus ambra GmbH,BL,56,2018,,,AL,0,
+Genossenschaft Geburtshaus Simmental-Saaneland MaternitÃ© Alpine,BE,45,2018,,,AL,0,
+Geburtshaus Tagmond GmbH,BL,43,2018,,,AL,0,
+Maison de Naissance Tilia SÃ rl,NE,31,2018,,,RO,0,
+Centro Sanitario Valposchiavo Ospedale San Sisto,GR,29,2018,12.0,,AL,0,0.41379310344827586
+Maison de naissance Les Cigognes,JU,22,2018,,,RO,0,
+Geburtshaus Basel,BS,5,2018,,,AL,0,
+Ita Wegman Geburtshaus,BL,2,2018,,,AL,0,
+Nouvelle Clinique Vert-PrÃ©,GE,1,2018,,,RO,0,
+Les HÃ´pitaux Universitaires de GenÃ¨ve HUG,GE,4149,2019,1054.0,38.0,RO,1,0.25403711737768137
+LUKS Spitalbetriebe AG,LU,3228,2019,1097.0,,AL,0,0.33983890954151175
+CHUV Centre Hospitalier Universitaire Vaudois,VD,3121,2019,905.0,58.0,RO,1,0.2899711630887536
+UniversitÃ¤tsspital ZÃ¼rich,ZH,2771,2019,1212.0,86.0,AL,1,0.4373872248285817
+UniversitÃ¤tsspital Basel,BS,2713,2019,945.0,76.0,AL,1,0.3483228897899005
+Spital Thurgau AG KantonsspitÃ¤ler Frauenfeld & MÃ¼nsterlingen,TG,2366,2019,655.0,,AL,0,0.2768385460693153
+Spital Zollikerberg,ZH,2168,2019,823.0,,AL,0,0.37961254612546125
+Stadtspital Triemli,ZH,2099,2019,788.0,,AL,0,0.37541686517389233
+Lindenhofgruppe AG,BE,2080,2019,720.0,,AL,0,0.34615384615384615
+Kantonsspital Aarau AG,AG,2023,2019,608.0,,AL,0,0.30054374691052893
+Kantonsspital St. Gallen,SG,1966,2019,703.0,18.0,AL,0,0.3575788402848423
+HÃ´pital Riviera-Chablais Vaud-Valais,VD,1908,2019,480.0,,RO,0,0.25157232704402516
+Bethesda Spital AG,BS,1874,2019,709.0,,AL,0,0.3783351120597652
+Insel Gruppe AG (universitÃ¤r),BE,1850,2019,830.0,56.0,AL,1,0.4486486486486487
+Kantonsspital Winterthur,ZH,1708,2019,581.0,,AL,0,0.3401639344262295
+Solothurner SpitÃ¤ler AG,SO,1666,2019,500.0,,AL,0,0.30012004801920766
+Kantonsspital Baden AG,AG,1644,2019,565.0,,AL,0,0.34367396593673966
+HÃ´pital du Valais Centre hospitalier du Valais Romand CHVR,VS,1614,2019,366.0,,RO,0,0.22676579925650558
+EOC Ente ospedaliero cantonale,TI,1609,2019,437.0,,RO,0,0.271597265382225
+HÃ´pital Jules Daler,FR,1528,2019,446.0,,RO,0,0.2918848167539267
+EHC Ensemble hospitalier de la CÃ´te,VD,1414,2019,374.0,,RO,0,0.26449787835926447
+RÃ©seau hospitalier neuchÃ¢telois RHNe,NE,1388,2019,372.0,,RO,0,0.2680115273775216
+Spital BÃ¼lach AG,ZH,1340,2019,431.0,,AL,0,0.32164179104477614
+Spital STS AG,BE,1131,2019,292.0,,AL,0,0.2581786030061892
+Spitalverbund Appenzell Ausserrhoden,AR,1069,2019,272.0,,AL,0,0.25444340505144997
+Spitalregion Rheintal Werdenberg Sarganserland,SG,1068,2019,259.0,,AL,0,0.24250936329588016
+Hirslanden Bern AG,BE,1039,2019,358.0,,AL,0,0.34456207892204044
+HFR - HÃ´pital fribourgeois,FR,1032,2019,307.0,,RO,0,0.29748062015503873
+Kantonsspital GraubÃ¼nden,GR,1026,2019,382.0,,AL,0,0.3723196881091618
+Spital Limmattal,ZH,1017,2019,336.0,,AL,0,0.3303834808259587
+Etablissements Hospitaliers du Nord Vaudois (eHnv),VD,993,2019,266.0,,RO,0,0.2678751258811682
+Zuger Kantonsspital AG,ZG,984,2019,282.0,,AL,0,0.2865853658536585
+Spitalzentrum Biel AG,BE,884,2019,191.0,,AL,0,0.2160633484162896
+Spital Uster,ZH,856,2019,269.0,,AL,0,0.3142523364485981
+Klinik Hirslanden AG,ZH,839,2019,478.0,,AL,0,0.5697258641239571
+GZO Spital Wetzikon,ZH,822,2019,261.0,,AL,0,0.3175182481751825
+SpitÃ¤ler Schaffhausen,SH,813,2019,265.0,,AL,0,0.32595325953259535
+Clinique des Grangettes SA,GE,803,2019,323.0,,RO,0,0.40224159402241594
+Asana Spital Leuggern AG,AG,773,2019,226.0,,AL,0,0.2923673997412678
+Hirslanden Klinik St. Anna AG,LU,757,2019,275.0,,AL,0,0.3632760898282695
+Hirslanden Klinik Linde AG,BE,749,2019,261.0,,AL,0,0.3484646194926569
+Regionalspital Emmental AG,BE,719,2019,192.0,,AL,0,0.2670375521557719
+See-Spital,ZH,718,2019,265.0,,AL,0,0.36908077994428967
+Hirslanden Klinik Stephanshorn,SG,704,2019,318.0,,AL,0,0.45170454545454547
+Swiss Medical Network Hospitals SA Clinica Sant'Anna,TI,704,2019,271.0,,RO,0,0.3849431818181818
+Hirslanden Klinik Aarau,AG,696,2019,304.0,,AL,0,0.4367816091954023
+Clinique GÃ©nÃ©rale-Beaulieu,GE,688,2019,234.0,,RO,0,0.34011627906976744
+SRO AG,BE,673,2019,209.0,,AL,0,0.31054977711738485
+Spital Wallis - Spitalzentrum Oberwallis (SZO),VS,671,2019,196.0,,RO,0,0.29210134128166915
+HÃ´pital du Jura,JU,631,2019,139.0,,RO,0,0.2202852614896989
+Spitalregion FÃ¼rstenland Toggenburg,SG,614,2019,178.0,,AL,0,0.2899022801302932
+HÃ´pital Intercantonal de la Broye (HIB),VD,582,2019,122.0,,RO,0,0.20962199312714777
+Spital MÃ¤nnedorf AG,ZH,576,2019,160.0,,AL,0,0.2777777777777778
+Stiftung Spital Muri,AG,572,2019,145.0,,AL,0,0.2534965034965035
+Spital Nidwalden AG,NW,571,2019,173.0,,AL,0,0.30297723292469353
+SpitÃ¤ler Frutigen Meiringen Interlaken AG,BE,571,2019,187.0,,AL,0,0.3274956217162872
+Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,VD,540,2019,140.0,,RO,0,0.25925925925925924
+Kantonsspital Baselland,BL,493,2019,120.0,,AL,0,0.2434077079107505
+GSMN Schweiz AG Privatklinik Bethanien,ZH,486,2019,265.0,,AL,0,0.5452674897119342
+Spital Lachen,SZ,483,2019,158.0,,AL,0,0.32712215320910976
+Klinik Im Park,ZH,474,2019,247.0,,AL,0,0.5210970464135021
+HÃ´pital de la Tour,GE,474,2019,175.0,,RO,0,0.3691983122362869
+Gesundheitszentrum Fricktal,AG,457,2019,165.0,,AL,0,0.3610503282275711
+Hirslanden Lausanne SA,VD,430,2019,200.0,,RO,0,0.46511627906976744
+Spital Schwyz,SZ,421,2019,95.0,,AL,0,0.22565320665083136
+Andreas Klinik,ZG,418,2019,236.0,,AL,0,0.5645933014354066
+Insel Gruppe AG (nicht-universitÃ¤r),BE,406,2019,179.0,,AL,0,0.4408866995073892
+Paracelsus-Spital Richterswil AG,ZH,404,2019,94.0,,AL,0,0.23267326732673269
+Spital Linth,SG,381,2019,74.0,,AL,0,0.1942257217847769
+HÃ´pital du Jura bernois SA,BE,357,2019,94.0,,AL,0,0.26330532212885155
+Kantonsspital Glarus,GL,344,2019,120.0,,AL,0,0.3488372093023256
+Clinique de La Source,VD,325,2019,135.0,,RO,0,0.4153846153846154
+Geburtshaus ZÃ¼rcher Oberland AG,ZH,296,2019,,,AL,0,
+Geburtshaus Terra Alta,LU,294,2019,,,AL,0,
+Kantonsspital Uri,UR,280,2019,61.0,,AL,0,0.21785714285714286
+Geburtshaus Luna AG,BE,278,2019,,,AL,0,
+Kantonsspital Obwalden,OW,276,2019,53.0,,AL,0,0.19202898550724637
+Spital Affoltern AG,ZH,262,2019,75.0,,AL,0,0.2862595419847328
+AMEOS Spital Einsiedeln AG,SZ,249,2019,74.0,,AL,0,0.2971887550200803
+Clinica Luganese Moncucco SA Clinica Santa Chiara SA,TI,229,2019,79.0,,RO,0,0.34497816593886466
+Geburtshaus Delphys,ZH,190,2019,,,AL,0,
+Flury Stiftung Spital Schiers,GR,174,2019,72.0,,AL,0,0.41379310344827586
+Spital Oberengadin,GR,160,2019,37.0,,AL,0,0.23125
+Spital Thusis,GR,145,2019,33.0,,AL,0,0.22758620689655173
+Regionalspital Surselva AG,GR,145,2019,43.0,,AL,0,0.296551724137931
+Geburtshaus St.Gallen GmbH,SG,133,2019,,,AL,0,
+Geburtshus StorchenÃ¤scht AG,AG,129,2019,,,AL,0,
+Maison de Naissance le Petit Prince,FR,110,2019,,,RO,0,
+Spital Davos AG Akutabteilung,GR,109,2019,42.0,,AL,0,0.3853211009174312
+Maison de naissance La Roseraie,GE,106,2019,,,RO,0,
+Geburtshaus Stans,NW,67,2019,,,AL,0,
+Geburtshaus ambra GmbH,BL,53,2019,,,AL,0,
+Matthea Geburtshaus,BS,52,2019,,,AL,0,
+Genossenschaft Geburtshaus Simmental-Saaneland MaternitÃ© Alpine,BE,52,2019,,,AL,0,
+Geburtshaus Tagmond GmbH,BL,47,2019,,,AL,0,
+Maison de Naissance Tilia SÃ rl,NE,42,2019,,,RO,0,
+Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,GR,39,2019,14.0,,AL,0,0.358974358974359
+Centro Sanitario Valposchiavo Ospedale San Sisto,GR,27,2019,12.0,,AL,0,0.4444444444444444
+Maison de naissance Les Cigognes,JU,18,2019,,,RO,0,
+Center da Sanadad Savognin SA,GR,1,2019,,,AL,0,
+Clinique la Colline,GE,1,2019,,,RO,0,
+Les HÃ´pitaux Universitaires de GenÃ¨ve HUG,GE,3914,2020,981.0,21.0,RO,1,0.2506387327542156
+LUKS Spitalbetriebe AG,LU,3204,2020,1228.0,,AL,0,0.383270911360799
+CHUV Centre Hospitalier Universitaire Vaudois,VD,3060,2020,774.0,41.0,RO,1,0.2529411764705882
+UniversitÃ¤tsspital ZÃ¼rich,ZH,2582,2020,1222.0,97.0,AL,1,0.47327652982184354
+UniversitÃ¤tsspital Basel,BS,2517,2020,928.0,63.0,AL,1,0.3686928883591577
+Spital Zollikerberg,ZH,2322,2020,947.0,,AL,0,0.4078380706287683
+Spital Thurgau AG KantonsspitÃ¤ler Frauenfeld & MÃ¼nsterlingen,TG,2311,2020,605.0,,AL,0,0.2617914322803981
+Stadtspital Triemli,ZH,2239,2020,833.0,,AL,0,0.3720410897722197
+Kantonsspital Aarau AG,AG,2148,2020,659.0,,AL,0,0.30679702048417135
+Kantonsspital St. Gallen,SG,1988,2020,680.0,12.0,AL,0,0.3420523138832998
+Bethesda Spital AG,BS,1873,2020,646.0,,AL,0,0.3449012279765083
+Insel Gruppe AG (universitÃ¤r),BE,1839,2020,813.0,59.0,AL,1,0.44208809135399674
+Lindenhofgruppe AG,BE,1819,2020,674.0,,AL,0,0.37053326003298515
+HÃ´pital Riviera-Chablais Vaud-Valais,VD,1777,2020,452.0,,RO,0,0.2543612830613393
+Kantonsspital Winterthur,ZH,1683,2020,565.0,,AL,0,0.33571004159239454
+HÃ´pital du Valais Centre hospitalier du Valais Romand CHVR,VS,1624,2020,403.0,1.0,RO,0,0.2481527093596059
+Kantonsspital Baden AG,AG,1608,2020,492.0,,AL,0,0.30597014925373134
+Solothurner SpitÃ¤ler AG,SO,1593,2020,478.0,,AL,0,0.30006277463904585
+HÃ´pital Jules Daler,FR,1496,2020,423.0,,RO,0,0.2827540106951872
+EHC Ensemble hospitalier de la CÃ´te,VD,1459,2020,386.0,,RO,0,0.26456477039067855
+EOC Ente ospedaliero cantonale,TI,1410,2020,414.0,,RO,0,0.2936170212765957
+Spital BÃ¼lach AG,ZH,1344,2020,435.0,,AL,0,0.3236607142857143
+RÃ©seau hospitalier neuchÃ¢telois RHNe,NE,1329,2020,364.0,,RO,0,0.27389014296463504
+Hirslanden Bern AG,BE,1201,2020,432.0,,AL,0,0.3597002497918401
+Kantonsspital GraubÃ¼nden,GR,1164,2020,392.0,,AL,0,0.33676975945017185
+Spital STS AG,BE,1100,2020,297.0,,AL,0,0.27
+Spitalverbund Appenzell Ausserrhoden,AR,1063,2020,241.0,,AL,0,0.22671683913452492
+Spital Limmattal,ZH,1057,2020,358.0,,AL,0,0.3386944181646168
+Zuger Kantonsspital AG,ZG,983,2020,298.0,,AL,0,0.3031536113936928
+HFR - HÃ´pital fribourgeois,FR,954,2020,270.0,,RO,0,0.2830188679245283
+Spitalregion Rheintal Werdenberg Sarganserland,SG,922,2020,223.0,,AL,0,0.2418655097613883
+Etablissements Hospitaliers du Nord Vaudois (eHnv),VD,912,2020,270.0,,RO,0,0.29605263157894735
+Clinique des Grangettes SA,GE,887,2020,368.0,,RO,0,0.41488162344983087
+Klinik Hirslanden AG,ZH,887,2020,507.0,,AL,0,0.5715896279594137
+Spitalzentrum Biel AG,BE,847,2020,194.0,,AL,0,0.22904368358913813
+SpitÃ¤ler Schaffhausen,SH,801,2020,288.0,,AL,0,0.3595505617977528
+GZO Spital Wetzikon,ZH,795,2020,248.0,,AL,0,0.3119496855345912
+Spital Uster,ZH,781,2020,216.0,,AL,0,0.2765685019206146
+Hirslanden Klinik St. Anna AG,LU,770,2020,285.0,,AL,0,0.37012987012987014
+Hirslanden Klinik Linde AG,BE,758,2020,258.0,,AL,0,0.3403693931398417
+Swiss Medical Network Hospitals SA Clinica Sant'Anna,TI,747,2020,285.0,,RO,0,0.3815261044176707
+Hirslanden Klinik Aarau,AG,740,2020,322.0,,AL,0,0.43513513513513513
+Asana Spital Leuggern AG,AG,718,2020,202.0,,AL,0,0.28133704735376047
+Hirslanden Klinik Stephanshorn,SG,709,2020,331.0,,AL,0,0.46685472496473907
+Spital Wallis - Spitalzentrum Oberwallis (SZO),VS,709,2020,218.0,,RO,0,0.307475317348378
+Regionalspital Emmental AG,BE,691,2020,183.0,,AL,0,0.26483357452966716
+See-Spital,ZH,686,2020,271.0,,AL,0,0.39504373177842567
+Clinique GÃ©nÃ©rale-Beaulieu,GE,677,2020,225.0,,RO,0,0.33234859675036926
+SRO AG,BE,656,2020,196.0,,AL,0,0.29878048780487804
+HÃ´pital du Jura,JU,636,2020,146.0,,RO,0,0.22955974842767296
+Stiftung Spital Muri,AG,633,2020,209.0,,AL,0,0.330173775671406
+Spital Nidwalden AG,NW,604,2020,204.0,,AL,0,0.33774834437086093
+HÃ´pital Intercantonal de la Broye (HIB),VD,595,2020,133.0,,RO,0,0.2235294117647059
+Kantonsspital Baselland,BL,569,2020,162.0,,AL,0,0.28471001757469244
+Spitalregion FÃ¼rstenland Toggenburg,SG,557,2020,173.0,,AL,0,0.3105924596050269
+Spital MÃ¤nnedorf AG,ZH,553,2020,147.0,,AL,0,0.26582278481012656
+SpitÃ¤ler Frutigen Meiringen Interlaken AG,BE,553,2020,186.0,,AL,0,0.33634719710669075
+Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,VD,523,2020,162.0,,RO,0,0.30975143403441685
+GSMN Schweiz AG Privatklinik Bethanien,ZH,501,2020,282.0,,AL,0,0.562874251497006
+HÃ´pital de la Tour,GE,490,2020,169.0,,RO,0,0.3448979591836735
+Andreas Klinik,ZG,485,2020,268.0,,AL,0,0.5525773195876289
+Spital Lachen,SZ,484,2020,166.0,,AL,0,0.34297520661157027
+Klinik Im Park,ZH,475,2020,233.0,,AL,0,0.4905263157894737
+Hirslanden Lausanne SA,VD,464,2020,195.0,,RO,0,0.4202586206896552
+Spital Schwyz,SZ,453,2020,109.0,,AL,0,0.24061810154525387
+Gesundheitszentrum Fricktal,AG,432,2020,163.0,,AL,0,0.3773148148148148
+Spital Linth,SG,409,2020,130.0,,AL,0,0.31784841075794623
+Insel Gruppe AG (nicht-universitÃ¤r),BE,405,2020,176.0,,AL,0,0.4345679012345679
+HÃ´pital du Jura bernois SA,BE,393,2020,95.0,,AL,0,0.24173027989821882
+Paracelsus-Spital Richterswil AG,ZH,355,2020,99.0,,AL,0,0.27887323943661974
+Clinica Luganese Moncucco SA Clinica Santa Chiara SA,TI,339,2020,129.0,,RO,0,0.3805309734513274
+Clinique de La Source,VD,332,2020,134.0,,RO,0,0.4036144578313253
+Kantonsspital Glarus,GL,314,2020,94.0,,AL,0,0.29936305732484075
+Geburtshaus Luna AG,BE,314,2020,,,AL,0,
+Kantonsspital Obwalden,OW,308,2020,70.0,,AL,0,0.22727272727272727
+Geburtshaus Terra Alta,LU,273,2020,,,AL,0,
+Kantonsspital Uri,UR,269,2020,68.0,,AL,0,0.2527881040892193
+AMEOS Spital Einsiedeln AG,SZ,251,2020,85.0,,AL,0,0.3386454183266932
+Geburtshaus St.Gallen GmbH,SG,241,2020,,,AL,0,
+Geburtshaus ZÃ¼rcher Oberland AG,ZH,233,2020,,,AL,0,
+Geburtshaus Delphys,ZH,196,2020,,,AL,0,
+Flury Stiftung Spital Schiers,GR,185,2020,64.0,,AL,0,0.34594594594594597
+Spital Thusis,GR,165,2020,30.0,,AL,0,0.18181818181818182
+Spital Oberengadin,GR,142,2020,43.0,,AL,0,0.3028169014084507
+Regionalspital Surselva AG,GR,139,2020,28.0,,AL,0,0.2014388489208633
+Maison de Naissance le Petit Prince,FR,125,2020,,,RO,0,
+Maison de naissance La Roseraie,GE,102,2020,,,RO,0,
+Spital Davos AG Akutabteilung,GR,97,2020,36.0,,AL,0,0.3711340206185567
+Geburtshaus Stans,NW,66,2020,,,AL,0,
+Matthea Geburtshaus,BS,65,2020,,,AL,0,
+Geburtshaus ambra GmbH,BL,59,2020,,,AL,0,
+Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,GR,50,2020,16.0,,AL,0,0.32
+Genossenschaft Geburtshaus Simmental-Saaneland MaternitÃ© Alpine,BE,41,2020,,,AL,0,
+Geburtshaus Tagmond GmbH,BL,33,2020,,,AL,0,
+Maison de Naissance Tilia SÃ rl,NE,30,2020,,,RO,0,
+Maison de naissance Les Cigognes,JU,20,2020,,,RO,0,
+Centro Sanitario Valposchiavo Ospedale San Sisto,GR,19,2020,10.0,,AL,0,0.5263157894736842
+Spital Zofingen AG,AG,1,2020,,,AL,0,
+Les HÃ´pitaux Universitaires de GenÃ¨ve HUG,GE,4049,2021,1054.0,68.0,RO,1,0.2603111879476414
+LUKS Spitalbetriebe AG,LU,3255,2021,1167.0,,AL,0,0.3585253456221198
+CHUV Centre Hospitalier Universitaire Vaudois,VD,3060,2021,741.0,62.0,RO,1,0.24215686274509804
+UniversitÃ¤tsspital Basel,BS,2663,2021,987.0,78.0,AL,1,0.3706346226060834
+UniversitÃ¤tsspital ZÃ¼rich,ZH,2643,2021,1253.0,81.0,AL,1,0.47408248202799846
+Spital Zollikerberg,ZH,2431,2021,987.0,,AL,0,0.4060057589469354
+Spital Thurgau AG KantonsspitÃ¤ler Frauenfeld & MÃ¼nsterlingen,TG,2430,2021,640.0,,AL,0,0.26337448559670784
+Stadtspital Triemli,ZH,2336,2021,869.0,,AL,0,0.3720034246575342
+Kantonsspital Aarau AG,AG,2313,2021,726.0,,AL,0,0.3138780804150454
+Insel Gruppe AG (universitÃ¤r),BE,2141,2021,965.0,50.0,AL,1,0.4507239607659972
+Kantonsspital St. Gallen,SG,2040,2021,706.0,23.0,AL,0,0.346078431372549
+Bethesda Spital AG,BS,1985,2021,671.0,,AL,0,0.3380352644836272
+HÃ´pital Riviera-Chablais Vaud-Valais,VD,1971,2021,465.0,,RO,0,0.2359208523592085
+Kantonsspital Winterthur,ZH,1813,2021,581.0,,AL,0,0.3204633204633205
+Kantonsspital Baden AG,AG,1808,2021,596.0,,AL,0,0.32964601769911506
+Lindenhofgruppe AG,BE,1774,2021,655.0,,AL,0,0.3692220969560316
+Solothurner SpitÃ¤ler AG,SO,1689,2021,565.0,,AL,0,0.3345174659561871
+HÃ´pital du Valais Centre hospitalier du Valais Romand CHVR,VS,1644,2021,401.0,,RO,0,0.24391727493917276
+EHC Ensemble hospitalier de la CÃ´te,VD,1618,2021,426.0,,RO,0,0.26328800988875156
+HÃ´pital Jules Daler,FR,1609,2021,445.0,,RO,0,0.27656929770043504
+EOC Ente ospedaliero cantonale,TI,1431,2021,423.0,,RO,0,0.29559748427672955
+Spital BÃ¼lach AG,ZH,1394,2021,464.0,,AL,0,0.3328550932568149
+RÃ©seau hospitalier neuchÃ¢telois RHNe,NE,1368,2021,404.0,,RO,0,0.2953216374269006
+Hirslanden Bern AG,BE,1247,2021,498.0,,AL,0,0.3993584603047314
+Kantonsspital GraubÃ¼nden,GR,1245,2021,453.0,,AL,0,0.363855421686747
+Spital STS AG,BE,1159,2021,347.0,,AL,0,0.2993960310612597
+HFR - HÃ´pital fribourgeois,FR,1089,2021,305.0,,RO,0,0.2800734618916437
+Spitalregion Rheintal Werdenberg Sarganserland,SG,1083,2021,273.0,,AL,0,0.2520775623268698
+Klinik Hirslanden AG,ZH,1081,2021,604.0,,AL,0,0.5587419056429233
+Zuger Kantonsspital AG,ZG,1020,2021,348.0,,AL,0,0.3411764705882353
+Spital Limmattal,ZH,1019,2021,329.0,,AL,0,0.3228655544651619
+Spitalverbund Appenzell Ausserrhoden,AR,973,2021,248.0,,AL,0,0.25488180883864336
+Spitalzentrum Biel AG,BE,966,2021,243.0,,AL,0,0.2515527950310559
+Etablissements Hospitaliers du Nord Vaudois (eHnv),VD,925,2021,298.0,,RO,0,0.32216216216216215
+GZO Spital Wetzikon,ZH,869,2021,287.0,,AL,0,0.3302646720368239
+Spital Uster,ZH,864,2021,270.0,,AL,0,0.3125
+Hirslanden Klinik St. Anna AG,LU,855,2021,281.0,,AL,0,0.3286549707602339
+See-Spital,ZH,844,2021,323.0,,AL,0,0.38270142180094785
+SpitÃ¤ler Schaffhausen,SH,813,2021,294.0,,AL,0,0.36162361623616235
+Swiss Medical Network Hospitals SA Clinica Sant'Anna,TI,807,2021,296.0,,RO,0,0.3667905824039653
+Hirslanden Klinik Stephanshorn,SG,806,2021,401.0,,AL,0,0.4975186104218362
+Hirslanden Klinik Aarau,AG,806,2021,350.0,,AL,0,0.43424317617866004
+Regionalspital Emmental AG,BE,798,2021,212.0,,AL,0,0.2656641604010025
+Clinique des Grangettes SA,GE,784,2021,297.0,,RO,0,0.3788265306122449
+Asana Spital Leuggern AG,AG,769,2021,200.0,,AL,0,0.26007802340702213
+Hirslanden Klinik Linde AG,BE,756,2021,292.0,,AL,0,0.3862433862433862
+Clinique GÃ©nÃ©rale-Beaulieu,GE,722,2021,258.0,,RO,0,0.3573407202216066
+Spital Wallis - Spitalzentrum Oberwallis (SZO),VS,715,2021,246.0,,RO,0,0.34405594405594403
+Stiftung Spital Muri,AG,677,2021,227.0,,AL,0,0.3353028064992615
+SRO AG,BE,659,2021,213.0,,AL,0,0.3232169954476479
+Spital Nidwalden AG,NW,647,2021,203.0,,AL,0,0.31375579598145287
+Groupement Hospitalier de l'Ouest LÃ©manique (GHOL) SA,VD,646,2021,197.0,,RO,0,0.30495356037151705
+HÃ´pital Intercantonal de la Broye (HIB),VD,635,2021,155.0,,RO,0,0.2440944881889764
+HÃ´pital du Jura,JU,627,2021,148.0,,RO,0,0.23604465709728867
+SpitÃ¤ler Frutigen Meiringen Interlaken AG,BE,612,2021,224.0,,AL,0,0.3660130718954248
+Spital MÃ¤nnedorf AG,ZH,577,2021,158.0,,AL,0,0.2738301559792028
+Kantonsspital Baselland,BL,555,2021,184.0,,AL,0,0.33153153153153153
+Spital Lachen,SZ,544,2021,189.0,,AL,0,0.3474264705882353
+Spitalregion FÃ¼rstenland Toggenburg,SG,540,2021,173.0,,AL,0,0.32037037037037036
+Klinik Im Park,ZH,529,2021,290.0,,AL,0,0.5482041587901701
+HÃ´pital de la Tour,GE,522,2021,169.0,,RO,0,0.32375478927203066
+Andreas Klinik,ZG,509,2021,286.0,,AL,0,0.5618860510805501
+GSMN Schweiz AG Privatklinik Bethanien,ZH,509,2021,286.0,,AL,0,0.5618860510805501
+Gesundheitszentrum Fricktal,AG,479,2021,182.0,,AL,0,0.37995824634655534
+Spital Linth,SG,446,2021,113.0,,AL,0,0.2533632286995516
+Spital Schwyz,SZ,445,2021,129.0,,AL,0,0.2898876404494382
+Hirslanden Lausanne SA,VD,409,2021,181.0,,RO,0,0.44254278728606355
+HÃ´pital du Jura bernois SA,BE,401,2021,122.0,,AL,0,0.30423940149625933
+Clinique de La Source,VD,379,2021,146.0,,RO,0,0.38522427440633245
+Geburtshaus Luna AG,BE,346,2021,,,AL,0,
+Kantonsspital Uri,UR,338,2021,96.0,,AL,0,0.28402366863905326
+AMEOS Spital Einsiedeln AG,SZ,332,2021,116.0,,AL,0,0.3493975903614458
+Kantonsspital Glarus,GL,331,2021,96.0,,AL,0,0.29003021148036257
+Clinica Luganese Moncucco SA Clinica Santa Chiara SA,TI,304,2021,118.0,,RO,0,0.3881578947368421
+Geburtshaus ZÃ¼rcher Oberland AG,ZH,276,2021,,,AL,0,
+Geburtshaus Terra Alta,LU,267,2021,,,AL,0,
+Insel Gruppe AG (nicht-universitÃ¤r),BE,266,2021,131.0,,AL,0,0.4924812030075188
+Kantonsspital Obwalden,OW,258,2021,66.0,,AL,0,0.2558139534883721
+Geburtshaus St.Gallen GmbH,SG,240,2021,,,AL,0,
+Flury Stiftung Spital Schiers,GR,222,2021,71.0,,AL,0,0.31981981981981983
+Geburtshaus Delphys,ZH,216,2021,,,AL,0,
+Spital Oberengadin,GR,174,2021,47.0,,AL,0,0.27011494252873564
+Regionalspital Surselva AG,GR,158,2021,38.0,,AL,0,0.24050632911392406
+Spital Thusis,GR,138,2021,42.0,,AL,0,0.30434782608695654
+Maison de Naissance le Petit Prince,FR,126,2021,,,RO,0,
+Maison de naissance La Roseraie,GE,108,2021,,,RO,0,
+Spital Davos AG Akutabteilung,GR,94,2021,31.0,,AL,0,0.32978723404255317
+Geburtshaus Stans,NW,81,2021,,,AL,0,
+Matthea Geburtshaus,BS,76,2021,,,AL,0,
+Genossenschaft Geburtshaus Simmental-Saaneland MaternitÃ© Alpine,BE,62,2021,,,AL,0,
+Geburtshaus ambra GmbH,BL,58,2021,,,AL,0,
+Geburtshaus Tagmond GmbH,BL,43,2021,,,AL,0,
+Center da Sanda Engiadina Bassa Ospidal d'Engiadina Bassa,GR,41,2021,14.0,,AL,0,0.34146341463414637
+Maison de naissance Les Cigognes,JU,35,2021,,,RO,0,
+Maison de Naissance Tilia SÃ rl,NE,32,2021,,,RO,0,
+Asana Spital Menziken AG,AG,1,2021,,,AL,0,
