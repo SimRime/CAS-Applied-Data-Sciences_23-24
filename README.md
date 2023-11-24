@@ -7,7 +7,7 @@ The CAS homepage is https://www.unibe.ch/continuing_education_programs/cas_in_ap
 Structure
 Currently, the repository is composed of 4 modules:
 
-Module 1: Data acquisition and management
-Module 2: Statistical Inference for Data Science
-Module 3: Data Analysis and Machine Learning
-Module 4: Ethics and Best Practices
+- Module 1: Data acquisition and management
+- Module 2: Statistical Inference for Data Science
+- Module 3: Data Analysis and Machine Learning
+- Module 4: Ethics and Best Practices
