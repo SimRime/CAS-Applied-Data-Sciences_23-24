@@ -12,4 +12,5 @@ Currently, the repository is composed of 4 modules:
 - Module 2: Statistical Inference for Data Science
 - Module 3: Data Analysis and Machine Learning
 - Module 4: Ethics and Best Practices
+- Module 6: Deep learning
 
